@@ -1,7 +1,7 @@
 package com.gr03.amos.bikerapp.Models;
 import io.realm.RealmObject;
 
-public class Start extends RealmObject{
+public class End extends RealmObject{
     private Address address;
     public Address getAddress() {
         return address;
